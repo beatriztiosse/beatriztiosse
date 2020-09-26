@@ -80,7 +80,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 
 **Linha do tempo**
 
-![Chart not found](https://github.com/ribeiroevandro/ribeiroevandro/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/EmersonGarrido/EmersonGarrido/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
