@@ -1,7 +1,7 @@
 # Beatriz **Tiosse**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-beatriz%20tiosse-201B2D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriztiosse/)](https://www.linkedin.com/in/beatriztiosse/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Beatriz%20Tiosse-201B2D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriztiosse/)](https://www.linkedin.com/in/beatriztiosse/) 
 [![Gmail Badge](https://img.shields.io/badge/-beatriz.terradas@gmail.com-201B2D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beatriz.terradas@gmail.com)](mailto:beatriz.terradas@gmail.com)
 
 
