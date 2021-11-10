@@ -12,7 +12,7 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 0 Contribuições no ano de 2021
+> 🏆 25 Contribuições no ano de 2021
  > 
 > 📦 4.5 kB Usado no armazenamento do GitHub 
  > 
