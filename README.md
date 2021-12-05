@@ -6,19 +6,21 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-207002%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-206207%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 25 Contribuições no ano de 2021
+> 🏆 26 Contribuições no ano de 2021
  > 
 > 📦 4.5 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
-> 📜 4 Repositórios Públicos 
+> 📜 5 Repositórios Públicos 
  > 
 > 🔑 4 Repositórios Privados  
  > 
@@ -51,17 +53,17 @@ domingo      26 commits     █████████░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-TypeScript               19 hrs 45 mins      █████████████████████░░░░   86.21% 
-Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-PHP                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-JavaScript               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+TypeScript               13 hrs 23 mins      ████████████████░░░░░░░░░   66.23% 
+Python                   5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.75% 
+PHP                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
+JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 🔥 Editores: 
-VS Code                  22 hrs 55 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 13 mins      █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      22 hrs 55 mins      █████████████████████████   100.0%
+Mac                      20 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +83,5 @@ Java                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
