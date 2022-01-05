@@ -38,8 +38,8 @@
 ```text
 Segunda-Feira7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
 Terça-Feira  8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Quarta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Quinta-Feira 6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Quarta-Feira 1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
+Quinta-Feira 5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
 Sexta-Feira  11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
 sábado       14 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
 domingo      26 commits     █████████░░░░░░░░░░░░░░░░   36.11%
