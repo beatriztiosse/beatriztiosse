@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
