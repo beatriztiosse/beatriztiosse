@@ -6,6 +6,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-221%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
@@ -51,13 +53,13 @@ domingo      26 commits     ████████░░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-TypeScript               11 mins             █████████████████████████   100.0%
+PHP                      28 mins             █████████████████████████   100.0%
 
 🔥 Editores: 
-VS Code                  11 mins             █████████████████████████   100.0%
+VS Code                  28 mins             █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      11 mins             █████████████████████████   100.0%
+Windows                  28 mins             █████████████████████████   100.0%
 
 ```
 
