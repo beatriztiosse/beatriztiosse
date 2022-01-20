@@ -53,13 +53,14 @@ domingo      28 commits     ████████░░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+PHP                      2 hrs 1 min         █████████████████████████   99.95% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  2 hrs 1 min         █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  2 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
