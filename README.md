@@ -53,13 +53,15 @@ domingo      28 commits     ████████░░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+PHP                      44 mins             ██████████████████░░░░░░░   71.91% 
+INI                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   22.83% 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.27%
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  1 hr 1 min          █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  1 hr 1 min          █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +82,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/03/2022 04:37:13 UTC
+ Last Updated on 02/03/2022 04:59:05 UTC
 <!--END_SECTION:waka-->
