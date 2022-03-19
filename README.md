@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -82,5 +82,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 23:12:56 UTC
+ Last Updated on 19/03/2022 01:56:20 UTC
 <!--END_SECTION:waka-->
