@@ -6,6 +6,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-239%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
@@ -51,15 +53,14 @@ domingo      28 commits     ████████░░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-CSS                      2 hrs 24 mins       ██████████████████░░░░░░░   74.36% 
-HTML                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.96% 
-PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.68%
+CSS                      2 hrs 24 mins       ████████████████████░░░░░   79.68% 
+HTML                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32%
 
 🔥 Editores: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 1 min         █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.0%
+Windows                  3 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +81,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2022 04:12:37 UTC
+ Last Updated on 24/03/2022 05:15:57 UTC
 <!--END_SECTION:waka-->
