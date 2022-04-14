@@ -22,7 +22,7 @@
  > 
 > 📜 7 Repositórios Públicos 
  > 
-> 🔑 6 Repositórios Privados  
+> 🔑 7 Repositórios Privados  
  > 
 **Eu sou diurno 🐤** 
 
@@ -80,5 +80,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/04/2022 21:01:41 UTC
+ Last Updated on 14/04/2022 22:31:40 UTC
 <!--END_SECTION:waka-->
