@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -16,7 +16,7 @@
 
 > 🏆 6 Contribuições no ano de 2022
  > 
-> 📦 5.3 kB Usado no armazenamento do GitHub 
+> 📦 5.5 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -80,5 +80,5 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 20:55:28 UTC
+ Last Updated on 15/04/2022 21:01:29 UTC
 <!--END_SECTION:waka-->
