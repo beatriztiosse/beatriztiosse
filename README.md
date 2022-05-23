@@ -14,8 +14,6 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 6 Contribuições no ano de 2022
- > 
 > 📦 5.5 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
@@ -80,5 +78,5 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/05/2022 07:21:09 UTC
+ Last Updated on 23/05/2022 08:13:34 UTC
 <!--END_SECTION:waka-->
