@@ -8,20 +8,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-orange)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-253%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
-**📊 Meus dados no GitHub** 
+**🐱 Meus dados no GitHub** 
 
-```text
-🏆 6 Contribuições no ano de 2022
-
-📦 5.5 kB Usado no armazenamento do GitHub 
-
-📜 7 Repositórios Públicos 
-
-🔑 9 Repositórios Privados  
+> 🏆 6 Contribuições no ano de 2022
+ > 
+> 📦 5.5 kB Usado no armazenamento do GitHub 
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 7 Repositórios Públicos 
+ > 
+> 🔑 9 Repositórios Privados  
  > 
 **Eu sou diurno 🐤** 
 
@@ -62,7 +63,7 @@ Nenhuma atividade rastreada esta semana
 
 ```
 
-**💻 Eu geralmente programo em JavaScript** 
+**Eu geralmente programo em JavaScript** 
 
 ```text
 JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
@@ -79,5 +80,5 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 08:11:36 UTC
+ Last Updated on 12/06/2022 08:32:45 UTC
 <!--END_SECTION:waka-->
