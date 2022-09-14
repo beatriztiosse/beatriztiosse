@@ -24,6 +24,45 @@
  > 
 > 🔑 9 Repositórios Privados  
  > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã      5 commits      █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+🌆 Tarde      11 commits     ████████████░░░░░░░░░░░░░   50.0% 
+🌃 Noite      6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
+
+```text
+Segunda-Feira5 commits      █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Terça-Feira  1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Quarta-Feira 2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Quinta-Feira 2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Sexta-Feira  6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+sábado       4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+domingo      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Campo_Grande
+
+💬 Linguagens de programação: 
+Nenhuma atividade rastreada esta semana
+
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
+
+💻 Sistema operacional: 
+Nenhuma atividade rastreada esta semana
+
+```
+
 **Eu geralmente programo em JavaScript** 
 
 ```text
@@ -41,5 +80,5 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 05:22:02 UTC
+ Last Updated on 14/09/2022 06:46:21 UTC
 <!--END_SECTION:waka-->
