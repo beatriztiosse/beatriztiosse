@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -53,14 +53,15 @@ domingo      2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-PHP                      1 hr 31 mins        █████████████████░░░░░░░░   69.45% 
-SCSS                     40 mins             ███████░░░░░░░░░░░░░░░░░░   30.55%
+PHP                      1 hr 21 mins        ███████████████████░░░░░░   76.51% 
+XML                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+SCSS                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
 
 🔥 Editores: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
+VS Code                  1 hr 46 mins        █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.0%
+Linux                    1 hr 46 mins        █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +82,5 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/beatriztiosse/beatriztiosse/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2022 05:09:59 UTC
+ Last Updated on 15/10/2022 06:23:47 UTC
 <!--END_SECTION:waka-->
